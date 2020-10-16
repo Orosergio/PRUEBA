@@ -1,0 +1,14 @@
+D:\U\4 AÑO 2 SEM\ANALISIS 2\SEGUNDO PROYECTO\Navegador\CapaVista\bin\Debug\CapaVista.dll
+D:\U\4 AÑO 2 SEM\ANALISIS 2\SEGUNDO PROYECTO\Navegador\CapaVista\bin\Debug\CapaVista.pdb
+D:\U\4 AÑO 2 SEM\ANALISIS 2\SEGUNDO PROYECTO\Navegador\CapaVista\bin\Debug\CapaControlador.dll
+D:\U\4 AÑO 2 SEM\ANALISIS 2\SEGUNDO PROYECTO\Navegador\CapaVista\bin\Debug\CapaControlador.pdb
+D:\U\4 AÑO 2 SEM\ANALISIS 2\SEGUNDO PROYECTO\Navegador\CapaVista\obj\Debug\CapaVista.csprojAssemblyReference.cache
+D:\U\4 AÑO 2 SEM\ANALISIS 2\SEGUNDO PROYECTO\Navegador\CapaVista\obj\Debug\CapaVista.Navegador.resources
+D:\U\4 AÑO 2 SEM\ANALISIS 2\SEGUNDO PROYECTO\Navegador\CapaVista\obj\Debug\CapaVista.Properties.Resources.resources
+D:\U\4 AÑO 2 SEM\ANALISIS 2\SEGUNDO PROYECTO\Navegador\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+D:\U\4 AÑO 2 SEM\ANALISIS 2\SEGUNDO PROYECTO\Navegador\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+D:\U\4 AÑO 2 SEM\ANALISIS 2\SEGUNDO PROYECTO\Navegador\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+D:\U\4 AÑO 2 SEM\ANALISIS 2\SEGUNDO PROYECTO\Navegador\CapaVista\obj\Debug\CapaVista.dll
+D:\U\4 AÑO 2 SEM\ANALISIS 2\SEGUNDO PROYECTO\Navegador\CapaVista\obj\Debug\CapaVista.pdb
+D:\U\4 AÑO 2 SEM\ANALISIS 2\SEGUNDO PROYECTO\Navegador\CapaVista\bin\Debug\CapaModelo.dll
+D:\U\4 AÑO 2 SEM\ANALISIS 2\SEGUNDO PROYECTO\Navegador\CapaVista\bin\Debug\CapaModelo.pdb
