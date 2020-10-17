@@ -41,5 +41,11 @@ namespace CapaVista
         {
             Help.ShowHelp(this, "Ayuda/AyudaTaquilla.chm", ruta);
         }
+
+        private void btnCancelar_Click(object sender, EventArgs e)
+        {
+            int code = 1;
+            
+        }
     }
 }
